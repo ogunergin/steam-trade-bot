@@ -1,9 +1,9 @@
 # steam-trade-bot
 fastest steam trade bot
 
-for contact:
+### Contact Information
 
-mail : ogun.ergin35@gmail.com
-discord : genage#1371
-telegram : @genage35
+- **E-Mail** :  ogun.ergin35@gmail.com
+- **Discord** : genage#1371
+- **Telegram** : @genage35
 
